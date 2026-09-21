@@ -835,29 +835,6 @@ Possible improvements for production-scale workloads:
 
 ---
 
-# 📸 Screenshots
-
-Recommended screenshots for the repository:
-
-```text
-screenshots/
-├── home.png
-├── products.png
-├── product-details.png
-├── cart.png
-├── checkout.png
-├── orders.png
-└── admin-dashboard.png
-```
-
-Example:
-
-```markdown
-![Nexbuy Home](screenshots/home.png)
-```
-
----
-
 # 👨‍💻 Author
 
 **Azizul Hasan**
